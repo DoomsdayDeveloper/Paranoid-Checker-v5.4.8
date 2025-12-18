@@ -18,6 +18,17 @@
 
 ## Instructions
 
+Specify the path to the chrome executable file and to the folder with the check results
+<img width="1200" height="830" alt="image" src="https://github.com/user-attachments/assets/dc84703c-b98b-4f9e-b67c-d05458de1815" />
+Typically this path is C:\Program Files\Google\Chrome\Application
+
+You must specify the exact folder where the browser .exe is located.
+We recommend using the Chromium browser !
+Here you can also change the directory where the scanned logs are saved, enable/disable proxy use, and choose whether to save cookies for YouTube separately.
+Send results to Telegram has been added as a TEST! Currently, it only sends a message about the mass check's completion!
+
+
+
 1. Unpack the archive to a convenient folder.  
 2. Run the loader executable, which will launch the main application from the folder.  
 3. If a link to the adapter opens in the browser, the setup worked. Wait for the loader process to finish.  
@@ -25,6 +36,6 @@
 
 - Archive password: [night-onyx.ru]
 ---
-
+(out dated version in this posting but can be used for a refrence point - https://telegra.ph/Instrukciya-Paranoid-Checker-230-04-12 )
 
 [What is Matrix?](https://matrix.org/) • [What is Element?](https://element.io/en) • [How do I join?](https://wiki.mozilla.org/Matrix:Join)

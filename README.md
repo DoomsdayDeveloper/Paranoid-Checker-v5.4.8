@@ -42,7 +42,7 @@ Send results to Telegram has been added as a TEST! Currently, it only sends a me
 3. If a link to the adapter opens in the browser, the setup worked. Wait for the loader process to finish.  
 4. Enter any amount of numbers for the user ID and click the “Sign in” button.
 
-- Archive password: [night-onyx.ru]
+- ASK FOR ARCHIVE password: https://t.me/Ask4LiveStream
 ---
 (out dated version in this posting but can be used for a refrence point - https://telegra.ph/Instrukciya-Paranoid-Checker-230-04-12 )
 
